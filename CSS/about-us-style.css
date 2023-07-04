@@ -3,7 +3,7 @@ body {
     background-color: #f2f2f2;
     margin: 0;
     padding: 0;
-    background-image: url(image/background\ 4.jpg);
+    background-image: url(../image/background\ 4.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     
@@ -90,7 +90,7 @@ a {
 header {
     background-color: rgb(20, 32, 158);
     padding: 140px 0%;
-    background-image: url(image/sky2.jpg);
+    background-image: url(../image/sky2.jpg);
     
 }
 
