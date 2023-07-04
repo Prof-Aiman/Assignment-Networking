@@ -1,0 +1,118 @@
+
+header {
+    background-color: rgb(20, 32, 158);
+    padding: 140px 0%;
+    background-image: url(/image/sky2.jpg);
+    
+}
+
+.image-1{
+    position: absolute;
+    top: 0px;
+ 
+}
+
+a {
+    color: black;
+    font-style: normal;
+    text-decoration: none;
+}
+
+body {   
+font-family: Arial, sans-serif;
+background-color: rgb(240, 236, 236);
+margin:0;
+padding-bottom: 0;
+position: relative;
+background-image: url(/image/background-body.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+
+nav {
+    background-color: #333;
+   
+}
+
+.table-1{
+    border-bottom: black;
+    border-collapse: collapse;
+  
+    
+}
+
+.th-1 {
+    border-right: 2px solid ;
+    border-color: rgb(151, 141, 141);
+    padding:15px 15px;
+    border-collapse: collapse;
+    cursor: pointer;
+}
+
+.th-1:hover {
+    background-color: #615252;
+}
+
+.nav-text { 
+    color: #f1f1f1;
+}
+
+.container {
+max-width: 400px;
+margin: 25px auto;
+padding: 40px;
+background-color: #fff;
+border-radius: 5px;
+box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+opacity: 0.8;
+
+}
+
+.h1-1 {
+    position: absolute;
+    color: rgb(48, 98, 143);
+    padding-left: 15px;
+    font-family: Verdana ;
+    top: 170px;
+}
+
+.h1-2 {
+text-align: center;
+}
+
+label {
+display: block;
+margin-bottom: 10px;
+font-weight: bold;
+}
+
+input {
+width: 100%;
+padding: 10px;
+border-radius: 5px;
+border: 1px solid #ccc;
+margin-bottom: 5px;
+}
+
+button {
+background-color: #4caf50;
+color: #fff;
+border: none;
+padding: 10px 20px;
+border-radius: 5px;
+cursor: pointer;
+}
+
+button:hover {
+background-color: #45a049;
+}
+
+footer{
+    position: relative;
+    background-color: rgba(131, 134, 170, 0.6);
+    width: 100%;
+    padding: 15px;
+    text-align: center;
+    color: #fff;
+}
