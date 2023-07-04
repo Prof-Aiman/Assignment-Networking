@@ -1,7 +1,7 @@
 header {
     background-color: rgb(20, 32, 158);
     padding: 140px 0%;
-    background-image: url(/image/sky2.jpg);
+    background-image: url(image/sky2.jpg);
     
 }
 
@@ -48,7 +48,7 @@ a {
 
 body {
     font-family: Arial, sans-serif;
-    background-image: url(/image/background-body3.jpg);
+    background-image: url(image/background-body3.jpg);
     background-size: cover, contain;
     background-repeat: no-repeat;
     margin: 0;
